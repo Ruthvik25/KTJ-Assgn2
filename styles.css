@@ -215,14 +215,14 @@ i {
     position: absolute;
     top: 10px;
     right: 10px;
-    color: #aaaaaa;
+    color: #000;
     font-size: 24px;
     font-weight: bold;
 }
   
 #close:hover,
 #close:focus {
-    color: #000;
+    color: #aaaaaa;
     text-decoration: none;
     cursor: pointer;
 }
